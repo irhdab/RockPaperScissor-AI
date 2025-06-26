@@ -282,6 +282,5 @@ pip install -r requirements-dev.txt
 <br>Final Outcome<br>
 <p align="center"><img src = "https://user-images.githubusercontent.com/37273226/79742889-2c61fc80-8321-11ea-99ef-b55fbff4911c.PNG"/></p>
 
-
 ## Notes:
 This model works with staionary backgrounds against which Model has been trained. We could implement Hand Detection followed by Gesture Classifation to improve performance. This is a very basic model that simply tries to make predictions on the input image without any major preprocessing but is enough if you play in the same physical position. If you're new at this try chaning your Dataset and re-train your model multiple times would really help you gain better insights into the project.
