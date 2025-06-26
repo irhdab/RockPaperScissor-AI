@@ -1,0 +1,7 @@
+# Development dependencies for Rock Paper Scissors AI
+pytest>=7.0.0
+pylint>=2.17.0
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
+coverage>=7.0.0 
